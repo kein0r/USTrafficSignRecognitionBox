@@ -4,6 +4,7 @@
 ## Installation
 ### Raspberry PI
 * sudo apt-get install python3-opencv
+* sudo apt install python3-picamera
 ### Install Darknet
 * git clone https://github.com/AlexeyAB/darknet
 * cd darknet
